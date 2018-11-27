@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jogo-das-cores/precache-manifest.2253897d68dd13a4b82f617bb04adcf2.js"
+  "/jogo-das-cores/precache-manifest.08e7d3de83216b784275e1ef7fc8e009.js"
 );
 
 workbox.clientsClaim();

@@ -1,14 +1,13 @@
 {
-  "main.css": "/jogo-das-cores/static/css/main.b48683ba.chunk.css",
-  "main.js": "/jogo-das-cores/static/js/main.112c2cd4.chunk.js",
-  "main.js.map": "/jogo-das-cores/static/js/main.112c2cd4.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/jogo-das-cores/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/jogo-das-cores/static/js/1.2dd891c4.chunk.js.map",
+  "main.css": "/jogo-das-cores/static/css/main.799d5fb3.chunk.css",
+  "main.js": "/jogo-das-cores/static/js/main.fb7f3c25.chunk.js",
+  "main.js.map": "/jogo-das-cores/static/js/main.fb7f3c25.chunk.js.map",
+  "static/js/1.8f128470.chunk.js": "/jogo-das-cores/static/js/1.8f128470.chunk.js",
+  "static/js/1.8f128470.chunk.js.map": "/jogo-das-cores/static/js/1.8f128470.chunk.js.map",
   "runtime~main.js": "/jogo-das-cores/static/js/runtime~main.90b4c0e5.js",
   "runtime~main.js.map": "/jogo-das-cores/static/js/runtime~main.90b4c0e5.js.map",
-  "static/media/logo.svg": "/jogo-das-cores/static/media/logo.5d5d9eef.svg",
-  "static/css/main.b48683ba.chunk.css.map": "/jogo-das-cores/static/css/main.b48683ba.chunk.css.map",
+  "static/css/main.799d5fb3.chunk.css.map": "/jogo-das-cores/static/css/main.799d5fb3.chunk.css.map",
   "index.html": "/jogo-das-cores/index.html",
-  "precache-manifest.2253897d68dd13a4b82f617bb04adcf2.js": "/jogo-das-cores/precache-manifest.2253897d68dd13a4b82f617bb04adcf2.js",
+  "precache-manifest.08e7d3de83216b784275e1ef7fc8e009.js": "/jogo-das-cores/precache-manifest.08e7d3de83216b784275e1ef7fc8e009.js",
   "service-worker.js": "/jogo-das-cores/service-worker.js"
 }
